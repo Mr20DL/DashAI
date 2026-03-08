@@ -12,7 +12,7 @@
 
 ## 📸 Demo
 
-`![Dashboard Screenshot](./Captura2.png)`
+![Dashboard Screenshot](./Captura2.png)
 
 ---
 

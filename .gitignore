@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dependencias de Node (¡CRÍTICO! Nunca subir esto)
+node_modules/
+frontend/node_modules/
+
+# Build de producción
+dist/
+build/
+
+# Logs de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno locales (Nunca subir claves reales)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Carpeta de coverage de pruebas
+coverage/
